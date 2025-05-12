@@ -22,7 +22,10 @@ Skapa en enkel webbsida i HTML och CSS som visar ett pannkaksrecept. Sidan ska f
 
 ## Förhandsvisning
 
-Lägg gärna till en skärmdump här senare.
+<img width="800" alt="bild1" src="https://github.com/user-attachments/assets/a4aa89bd-71f5-4599-86cc-db4438f7e43c" />
+<img width="449" alt="bild2" src="https://github.com/user-attachments/assets/66c9831f-f1e6-427e-829e-373f378d8d1d" />
+<img width="449" alt="bild2" src="https://github.com/user-attachments/assets/65ca548f-713a-420e-af73-36378353fcb5" />
+
 
 ---
 
